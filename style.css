@@ -152,3 +152,10 @@ a:hover {
   color: rgba(204, 255, 0, 0.85); /* 노란색 */
   box-shadow: rgba(251, 0, 255, 0.7) 0 1px 50px 50px inset; /* 초록색 */
 }
+h1{
+  left: 690px;
+  top: 500px;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+}
